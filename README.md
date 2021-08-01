@@ -10,3 +10,10 @@ Belajar kelas Java (progress 56%) :
 - Belajar instrumen Java
 - Belajar controlflow
 - Belajar tipe data koleksi, list dan map
+
+**Tanggal 20 Juni 2021** <br>
+Belajar kelas Java (progress 100%) :
+- Belajar OOP
+- Belajar class - class dalam Java
+- Membuat program untuk menghitung volume
+- Mengerjakan Tugas Akhir sebagai latihan
